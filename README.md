@@ -1,5 +1,5 @@
 - I am Rupak Chowdhury
-- I am a Hobbyist Programmer and a Enthusiast of Microcontrollers.
+- I am a Hobbyist Programmer and an Enthusiast of Microcontrollers.
 
 <!---
 rpkc/rpkc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
