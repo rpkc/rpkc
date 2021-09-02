@@ -1,7 +1,3 @@
 - I am Rupak Chowdhury
-- I am a Hobbyist Programmer and an Enthusiast of Microcontrollers.
-
-<!---
-rpkc/rpkc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I am a Hobbyist Programmer and an Enthusiast of Microcontrollers.<br>
+<a href="mailto:rupakc770@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
